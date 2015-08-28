@@ -1,0 +1,25 @@
+html{
+	background-color:#f0f0f0;
+}
+body{
+	font-family:sans-serif;
+	text-align: center;
+}
+
+p{
+	line-height:1px;
+}
+
+img{
+	width:50%;
+	height:50%;
+}
+h1 {
+    color:#85144b;
+}
+a{
+	color:black;
+	text-decoration:none;
+	color:#85144b;
+	font-weight:700;
+}
