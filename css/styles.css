@@ -2,15 +2,9 @@
 }
 
 .row {
-	display: block;
-	margin: 0 auto;
 }
 
 #placeHold {
 	display: block;
 	margin: 0 auto;
-}
-
-.arrows{
-	size:50%;
 }
