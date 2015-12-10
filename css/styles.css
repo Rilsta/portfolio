@@ -5,9 +5,9 @@ body{
 	font-family:sans-serif;
 	text-align: center;
 }
-
-p{
-	line-height:1px;
+.navbar{
+	display: block;
+	line-height:2px;
 }
 
 img{
